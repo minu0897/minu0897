@@ -15,6 +15,7 @@
 ## **I’m currently learning ...**
 I am currently studying DB related technology.
 
+## PS Level
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mi_nu)](https://solved.ac/mi_nu/)
 
 
