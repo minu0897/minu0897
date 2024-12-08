@@ -9,12 +9,13 @@
 **세종대학교 컴퓨터공학과(23.02~)**
 
 
-## Awards
+## Awards and Certificates
 - 2024 제17회 창의설계경진대회 우수상[세종대학교] (2024.06)
+- SQLD (2024.12)
 
+- SQLP – Currently Studying
 ## **I’m currently learning ...**
 I am currently studying DB related technology.
-
 ## PS Level
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mi_nu)](https://solved.ac/mi_nu/)
 
