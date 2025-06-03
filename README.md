@@ -16,10 +16,12 @@
 - SQLP – Currently Studying
 ## **I’m currently learning ...**
 I am currently studying DB related technology.
+
+## Tech-Blog
+https://velog.io/@kimiwomno/posts
+
 ## PS Level
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mi_nu)](https://solved.ac/mi_nu/)
-
-
 
 
 <!--
